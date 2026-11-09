@@ -1,0 +1,12 @@
+# Changelog (hosted externally at https://www.awees.biz/scripts/heromatrix-labelizer/changelog/)
+CHANGELOG.md
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*~
